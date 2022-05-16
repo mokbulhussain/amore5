@@ -1,0 +1,183 @@
+@media only screen and (max-width: 1199.98px) {
+    .feature-heading h2 {
+        margin-top: 50px;
+    }
+    .price-user-icon img {
+        margin-left: -44px;
+    }
+    .newsletter-area {
+        padding: 0px 80px;
+    }
+  }
+
+  @media only screen and (max-width: 991.98px) {
+    div#navbarSupportedContent {
+        background: #ffffff;
+        position: absolute;
+        width: 100%;
+        top: 65px;
+        left: 0px;
+    }
+    .navbar-toggler-icon {
+
+      	border-radius: 2px;
+  	}
+    .nav-menu {
+      	align-items: left;
+      	display: inline;
+    }
+    .nav-menu-right li a {
+		margin-left: 12px;
+    }
+    .banner-content h1 {
+        font-size: 60px;
+    }
+
+    .relationship-colum {
+        padding-right: 0px;
+    }
+
+    .relationship-content h2 {
+        font-size: 36px;
+    }
+
+    .feature-list {
+        padding: 20px 10px;
+    }
+
+    .feature-list h3 {
+        font-size: 20px;
+    }
+
+    .feature-list p {
+    margin-top: 18px;
+    }
+
+    .match-loyal-colum {
+        padding-right: 0px;
+    }
+
+    .match-loyal-content h2 {
+        font-size: 36px;
+    }
+
+    .price-user-icon img {
+        margin-left: 0px;
+    }
+
+    .price-user-title {
+        margin-left:0px;
+        margin-top: -10px;
+    }
+
+    .price-user-title h5 {
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    .price-user-title h6 {
+    
+        text-align: center;
+        margin-left:0px;
+        margin-bottom: 30px;
+    }
+
+    .price-list ul li span {
+        font-size: 14px;
+    }
+
+    .client-content {
+        padding: 80px 0px 100px 0px;
+       
+    }
+
+    .newsletter-area {
+        padding: 0px 10px;
+    }
+    .newsletter h4 {
+        font-size: 28px;
+        margin-top: 50px;
+    }
+    .newsletter-img img {
+        margin-top: 20px;
+        width: 100%;
+    }
+
+}
+
+@media only screen and (max-width: 767.98px) {
+    .feature-list {
+        margin-top: 30px;
+    }
+    section.relationship {
+        margin-top: 550px;
+    }
+
+    .relationship-row{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .relationship-colum {
+        padding-right: 0px;
+        margin-top: 50px;
+    }
+
+    .match-loyal-img img {
+        margin-top: 50px;
+    }
+
+    .price-list {
+        margin-top: 30px;
+    }
+
+    .client-section {
+        margin-top: 730px;
+    }
+
+    .client-item {
+        padding: 80px 0px 80px 0px;
+    }
+}
+
+@media only screen and (max-width: 575.98px) {
+
+    .banner-content h1 {
+        font-size: 42px;
+        margin-top: 100px;
+    }
+
+    .feature-heading h2 {
+        margin-top: 100px;
+    }
+
+    section.relationship {
+        margin-top: 630px;
+    }
+    .match-loyal-content h2 {
+        font-size: 32px;
+    }
+    .relationship-content h2 {
+        font-size: 32px;
+    }
+
+    .client-section {
+        margin-top: 770px;
+    }
+    .newsletter a.view-profile {
+        margin-left: 14px;
+    }
+
+    .ready-contact {
+      
+        padding: 17px 20px;
+       
+    }
+
+    .ready-start {
+        padding: 17px 20px;
+    }
+
+    .ready h3 {
+        font-size: 30px;
+    }
+}
