@@ -444,17 +444,10 @@ section.feature {
     color: #062926;
     font-size: 44px;
     line-height: 54px;
-    font-family: 'GarmenBold';
+    font-family: 'carmenBold';
 }
 
 
-
-.feature-heading h2 {
-    color: #062926;
-    font-size: 44px;
-    line-height: 54px;
-    font-family: 'GarmenBold';
-}
 
 .feature-row {
     margin-top: 50px;

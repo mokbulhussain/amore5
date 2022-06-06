@@ -140,31 +140,89 @@
 }
 
 @media only screen and (max-width: 575.98px) {
+    header {
+        height: 700px;
+        background-position: bottom;
+        position: relative;
+        background-image: url('../img/bg/bg_mobile.png');
+    }
+
+    header {
+        height: 700px;
+        background-position: right;
+        position: relative;
+    }
+    .banner-form {
+        background: #ffffff;
+        box-shadow: 35px 100px 152px rgb(26 58 119 / 10%);
+        border-radius: 24px;
+        padding: 40px 30px;
+        margin-top: 40px;
+    }
+    .banner-content p {
+        color: #ffffff;
+        line-height: 26px;
+    }
+
+    .banner-content {
+        margin-top: 100px;
+        text-align: center;
+    }
 
     .banner-content h1 {
-        font-size: 42px;
+        font-size: 32px;
+        line-height: 42px;
         margin-top: 100px;
+        color: #ffffff;
     }
 
     .feature-heading h2 {
-        margin-top: 100px;
+        margin-top: 114px;
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .feature-list h3 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .relationship-content {
+        padding-left: 0px;
+        text-align: center;
+    }
+    .relationship-content h2 {
+        font-size: 28px;
+        line-height: 38px;
     }
 
     section.relationship {
-        margin-top: 630px;
+        margin-top: 660px;
     }
     .match-loyal-content h2 {
-        font-size: 32px;
+        font-size: 28px;
+    line-height: 38px;
     }
     .relationship-content h2 {
-        font-size: 32px;
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .price {
+        margin-top: 14px;
+    }
+    .price-heading h2 {
+        font-size: 28px;
+        line-height: 38px;
+        margin-top: 84px;
+    }
+
+    .client-content {
+        padding: 42px 0px 100px 0px;
     }
 
     .client-section {
-        margin-top: 770px;
+        margin-top: 742px;
     }
     .newsletter a.view-profile {
-        margin-left: 14px;
+        margin-left: 10px;
     }
 
     .ready-contact {
@@ -178,6 +236,31 @@
     }
 
     .ready h3 {
-        font-size: 30px;
+        font-size: 28px;
+        line-height: 38px;
     }
+
+    .newsletter-area {
+        margin-top: -250px;
+    }
+    
+    .footer-part1 {
+        text-align: center;
+
+    }
+
+    .footer-part h3 {
+    
+        margin-top: 30px;
+    }
+
+    .footer-part {
+        text-align: center;
+    }
+
+    .footer-subscribe {
+    
+        margin: 0px auto;
+    }
+    
 }
