@@ -205,6 +205,10 @@
         font-size: 28px;
         line-height: 38px;
     }
+    .match-loyal-content {
+        padding-left: 0px;
+        text-align: center;
+    }
     .price {
         margin-top: 14px;
     }
